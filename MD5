@@ -1,0 +1,8 @@
+c73b98cd757a6c8034102dea034cccfa *DESCRIPTION
+fe9e59ecde3a3a23aebee7ee47ac30c9 *LICENSE
+3af1cec05f25a3b06c183d2d062d99e9 *NAMESPACE
+d552b2f6eebf07e0221d6c3f5e746450 *R/yandex.R
+c87bf9aca8b431390170f89f86ef3be1 *README.md
+952f3bd2f80368e09654bed4d360391e *man/detect_language.Rd
+0979fb9311c6dcf6d7362d977acd5c5f *man/get_translation_direction.Rd
+e86a1f70bbf4fbd656cb478f1140bc81 *man/translate.Rd
